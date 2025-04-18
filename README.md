@@ -12,3 +12,7 @@ After creating the list of resources, I then configured the Network security gro
 ![Windows Firewall Set OFF](https://github.com/user-attachments/assets/7704e0c5-1678-404b-bd15-348b0f0b1bc7)
 
 In the Windows 10 VM I created, (connection via RDP) I have configured the firewall settings to be set OFF. 
+
+![AMA setup](https://github.com/user-attachments/assets/e9c2e3cd-3f69-4593-8ad5-1e38979b43d9)
+
+I went to the Microsoft Sentinel services page, created a workspace, installed two Data connectors (Security Events via Legacy Agent and Windows Security Events via AMA), and created a data collection rule for my virtual machine to forward logs to the Log Analytics workspace.
