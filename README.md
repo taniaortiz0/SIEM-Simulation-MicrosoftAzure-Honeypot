@@ -17,3 +17,6 @@ In the Windows 10 VM I created, (connection via RDP) I have configured the firew
 
 I went to the Microsoft Sentinel services page, created a workspace, installed two Data connectors (Security Events via Legacy Agent and Windows Security Events via AMA), and created a data collection rule for my virtual machine to forward logs to the Log Analytics workspace.
 
+![Using KQL to see events](https://github.com/user-attachments/assets/b7b10b9f-f480-49fd-b31f-6073db38e307)
+
+Querying the Log Analytics workspace using KQL to view Security Events with certain filters to view logs in real-time. 
