@@ -23,4 +23,4 @@ Querying the Log Analytics workspace using KQL to view Security Events with cert
 
 ![SOC Map](https://github.com/user-attachments/assets/51ec92b8-28bc-4275-a8da-4622b88fe6ec)
 
-I then utilized Microsoft Sentinel to create a Workbook to view the Windows 10 VM in real-time with visualization of the world map.
+I then utilized Microsoft Sentinel to create a Workbook to view the Windows 10 VM in real-time from a 24-hour to 48 hour-period.
