@@ -1,4 +1,4 @@
-# SIEM-Simulation-with-Microsoft-Azure
+# SIEM-Simulation-with-Microsoft-Azure + Honeypot
 
 ![List of Resource Groups](https://github.com/user-attachments/assets/9e3704d4-e7c8-43ca-9538-410b3ba76ed3)
 
@@ -19,4 +19,8 @@ I went to the Microsoft Sentinel services page, created a workspace, installed t
 
 ![Using KQL to see events](https://github.com/user-attachments/assets/b7b10b9f-f480-49fd-b31f-6073db38e307)
 
-Querying the Log Analytics workspace using KQL to view Security Events with certain filters to view logs in real-time. 
+Querying the Log Analytics workspace using KQL to view Security Events with certain filters to view logs within a time period.
+
+![SOC Map](https://github.com/user-attachments/assets/51ec92b8-28bc-4275-a8da-4622b88fe6ec)
+
+I then utilized Microsoft Sentinel to create a Workbook to view the Windows 10 VM in real-time with visualization of the world map.
