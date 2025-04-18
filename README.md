@@ -21,7 +21,7 @@ I went to the Microsoft Sentinel services page, created a workspace, installed t
 
 Querying the Log Analytics workspace using KQL to view Security Events with certain filters to view logs within a time period.
 
-![SOC Map](https://github.com/user-attachments/assets/51ec92b8-28bc-4275-a8da-4622b88fe6ec) ![Update after 24 hours](https://github.com/user-attachments/assets/29f00b38-7295-4e7f-9af5-dbd7e53cf828)
+![SOC Map](https://github.com/user-attachments/assets/51ec92b8-28bc-4275-a8da-4622b88fe6ec)   ![Update after 24 hours](https://github.com/user-attachments/assets/29f00b38-7295-4e7f-9af5-dbd7e53cf828)
 
 Viewing live-traffic using Microsoft Sentinel from a 24-hour to 48-hour time period.
 
