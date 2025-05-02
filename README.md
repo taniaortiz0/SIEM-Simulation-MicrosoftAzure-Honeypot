@@ -1,5 +1,12 @@
 # SIEM-Simulation-with-Microsoft-Azure + Honeypot (In-Progress)
 
+> Virtual Machine will act as a honeypot allowing all unsecure ports open for incoming traffic.
+> Firewall configurations were made through connection via RDP for all unsecure ports.
+> Created Microsoft Sentinel workspace and installed Data Connectors (Security Events via Legacy Agent and Windows Security Events via AMA).
+> Created a Log Analytics workspace and a data collection rule to forward logs.
+> Kusto Query Language (KQL) was utilized to view Security Events using parameters.
+> GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
+
 ![List of Resource Groups](https://github.com/user-attachments/assets/9e3704d4-e7c8-43ca-9538-410b3ba76ed3)
 
 Created a list of Resources for the SOC Lab involving a Resource group to store Azure services such as Windows 10 VM, Virtual network, Log Analytics workspace, and Microsoft Sentinel. 
