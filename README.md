@@ -29,7 +29,7 @@ Utilized GeoIP data to construct a Live Attack Map viewing live-traffic (24-hour
 
 After I viewed the 24-hour period of the Live Attack Map, I waited till 48-hours to see more incoming traffic populating. 
 
-References:
+## References
 
 Josh Madakor, Youtuber in the cybersecurity/information technology field. 
 
