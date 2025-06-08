@@ -3,7 +3,7 @@
 ## ✍️ Objective
 In this lab, I created a SIEM Simulation using Microsoft Azure Services to view a live attack of incoming traffic targeting the honeypot (Windows 10 VM). The Windows 10 VM is open to any ports making it easy for attackers to enter the vulnerable machine. 
 
---
+--- 
 
 ![List of Resource Groups](https://github.com/user-attachments/assets/9e3704d4-e7c8-43ca-9538-410b3ba76ed3)
 
@@ -33,6 +33,8 @@ Utilized GeoIP data to construct a Live Attack Map viewing live-traffic (24-hour
  ![Update after 24 hours](https://github.com/user-attachments/assets/29f00b38-7295-4e7f-9af5-dbd7e53cf828)
 
 After I viewed the 24-hour period of the Live Attack Map, I waited till 48-hours to see more incoming traffic populating. 
+
+--- 
 
 ## References
 
