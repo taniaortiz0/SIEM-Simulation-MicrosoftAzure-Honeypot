@@ -1,5 +1,10 @@
 # SIEM Simulation with Microsoft Azure + Honeypot
----
+
+## ✍️ Objective
+In this lab, I created a SIEM Simulation using Microsoft Azure Services to view a live attack of incoming traffic targeting the honeypot (Windows 10 VM). The Windows 10 VM is open to any ports making it easy for attackers to enter the vulnerable machine. 
+
+--
+
 ![List of Resource Groups](https://github.com/user-attachments/assets/9e3704d4-e7c8-43ca-9538-410b3ba76ed3)
 
 Created a list of Resources for the SOC Lab involving a Resource group to store Azure services such as Windows 10 VM, Virtual network, Log Analytics workspace, and Microsoft Sentinel. 
