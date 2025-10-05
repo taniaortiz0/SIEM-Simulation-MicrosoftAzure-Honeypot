@@ -36,7 +36,7 @@ After I viewed the 24-hour period of the Live Attack Map, I waited till 48-hours
 
 --- 
 
-## References
+## Source
 
 Josh Madakor, Youtuber in the cybersecurity/information technology field. 
 
